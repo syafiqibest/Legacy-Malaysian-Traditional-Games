@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "778335081387",
+    "firebase_url": "https://lmtgdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lmtgdb",
+    "storage_bucket": "lmtgdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778335081387:android:d213aa819c5e684f9838ee",
+        "android_client_info": {
+          "package_name": "com.poli.lmtg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-woIziQxdQSsGFaz6yFIOjK5PV15hQbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
